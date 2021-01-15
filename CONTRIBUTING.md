@@ -2,6 +2,6 @@
 
 # Contributing to Cory Fowler
 
-##
+## Issues
 
-##
+## Pull Requests
