@@ -5,6 +5,13 @@
 * Evidence-based
 * Community
 
+## Affirmations
+
+* Raise your words, not your voice
+* People will forget what you said or did, but people will never forget how you made them feel
+* Hardware Fails, Software Has Bugs, People Make Mistakes
+* I am the foremost expert of my own experience 
+
 ## Systems
 
 * [Objective Key Results (OKRs)](https://www.whatmatters.com/faqs/okr-meaning-definition-example/)
