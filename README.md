@@ -1,5 +1,10 @@
 # Readme
 
+## Core Values
+
+* Evidence-based
+* Community
+
 ## Systems
 
 * [Objective Key Results (OKRs)](https://www.whatmatters.com/faqs/okr-meaning-definition-example/)
