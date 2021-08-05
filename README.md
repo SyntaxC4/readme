@@ -20,3 +20,6 @@
 * [Spoon Theory](https://butyoudontlooksick.com/articles/written-by-christine/the-spoon-theory/)
 * [Fork Theory](https://jenrose.com/fork-theory/)
 * [Fear Setting](https://www.ted.com/talks/tim_ferriss_why_you_should_define_your_fears_instead_of_your_goals)
+* Six Sigma
+   * 8 wastes of lean (TIMWOODS)
+   * KNOT Technique
