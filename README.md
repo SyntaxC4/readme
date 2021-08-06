@@ -23,3 +23,4 @@
 * Six Sigma
    * 8 wastes of lean (TIMWOODS)
    * KNOT Technique
+* [Pugh Decision Matrix](https://asq.org/quality-resources/decision-matrix)
