@@ -3,7 +3,7 @@
 ## Core Values
 
 * Evidence-based
-* Community
+* Community focused
 
 ## Affirmations
 
