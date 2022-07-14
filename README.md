@@ -5,6 +5,10 @@
 * Evidence-based
 * Community focused
 
+## Communication
+
+* IM > Email
+
 ## Affirmations
 
 * Raise your words, not your voice
