@@ -16,7 +16,8 @@
 
 ## Accessibility
 
-* 
+* Screen Reader friendly
+* Audio book + Ebook > Physical book
 
 ## Affirmations
 
