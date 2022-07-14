@@ -16,8 +16,10 @@
 
 ## Accessibility
 
+* Dark Theme
 * Screen Reader friendly
 * Audio book + Ebook > Physical book
+* Short messages > walls of text
 
 ## Affirmations
 
