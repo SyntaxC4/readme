@@ -8,6 +8,15 @@
 ## Communication
 
 * IM > Email
+* [Non-violent Communication](https://www.goodreads.com/book/show/58686063-nonviolent-communication)
+  * Observations
+  * Feelings
+  * Needs
+  * Requests
+
+## Accessibility
+
+* 
 
 ## Affirmations
 
