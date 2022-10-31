@@ -4,6 +4,7 @@
 
 * Evidence-based
 * Community focused
+* Experimentation
 
 ## Communication
 
